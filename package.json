@@ -1,0 +1,23 @@
+{
+  "name": "Proyecto_final_Redes",
+  "version": "1.0.0",
+  "description": "Integrantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredy-98/Proyecto_final_Redes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredy-98/Proyecto_final_Redes/issues"
+  },
+  "homepage": "https://github.com/Fredy-98/Proyecto_final_Redes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
